@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="style.css">
 <header class="header">
 <h1> About-me</h1>
 My name is Luke Mersh.<br>
