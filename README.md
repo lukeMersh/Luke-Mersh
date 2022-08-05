@@ -1,4 +1,4 @@
-<header>
+<header class="header">
 <h1> About-me</h1>
 My name is Luke Mersh.<br>
 </header>
