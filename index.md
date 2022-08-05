@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="/stylesheets/style.css" />
+<link type="text/css" rel="stylesheet" href="style.css">
 <header>
   <h1>Luke Mersh</h1>
   <h2>Freelance junior WordPress Developer</h2>
