@@ -5,7 +5,7 @@ My name is Luke Mersh.<br>
 </header>
 <main>
 I am a self-taught freelance Wordpress developer.<br>
-I have started this page to help guide me and give me some starting point and focus on my journey.<br>
-Not sure where to start, I read about creating a kind of portfolio come showcase of my work on GitHub.
-I am in the process of creating my website, but I am still working on it, so for now I will be uploading and practice files and work into my portfolio.
+I have started to learn about Git and GitHub and how to use version control.<br/>
+I have never used Version control or project management before with any of my projects,<br/>
+so I am learning how to use Github to project manange any new projects I aquire.
 </main>
