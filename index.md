@@ -1,17 +1,24 @@
-<link type="text/css" rel="stylesheet" href="style.css">
-<header>
-  <h1>Luke Mersh</h1>
-  <h2>Freelance WordPress Developer</h2>
-  </header>
-  <main>
-<p> My name is Luke Mersh.<br/>
-I am a self-taught freelance Wordpress developer.<br/>
-I have started to learn about Git and GitHub and how to use version control.<br/>
-I have never used Version control or project management before with any of my projects,<br/>
-  so I am learning how to use Github to project manange any new projects I aquire.</p><br/>
-  I am working on my WordPress plugin development which I hope to be able to do using git and github <br/>
-  as well as Local by Flywheel for my local development platform.
-  </main>
-  <footer>
-  </footer>
-  
+
+# Hi, I'm Luke! 👋
+
+
+## 🚀 About Me
+I'm a Junior WordPress Developer.
+I am going from start to finish uploading various projects that demonstate my skills.
+From the basic to the more advance aspects.
+Here I will be showcasing some of the basic and static content on Github and then I will share a link where I will be showcasing the more dynamic content and WordPress.
+
+
+# CSS project
+
+This is my first project to demonstrate some core and advanced features of CSS, such as Box Model, Typography and Advanced Selectors among many others.
+
+
+## 🛠 Skills
+ HTML, CSS, Box Model, SASS
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-mersh-88b11254/)
+
