@@ -9,9 +9,9 @@ From the basic to the more advance aspects.
 Here I will be showcasing some of the basic and static content on Github and then I will share a link where I will be showcasing the more dynamic content and WordPress.
 
 
-# CSS project
+# Portfolio 
 
-This is my first project to demonstrate some core and advanced features of CSS, such as Box Model, Typography and Advanced Selectors among many others.
+This is my Portfolio for my static projects such as: HTML, CSS (Core concepts, typography, box model, selectors and Advanced selectors), SASS.
 
 
 ## 🛠 Skills
