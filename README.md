@@ -19,7 +19,7 @@ This is my Portfolio for my static projects such as: HTML, CSS (Core concepts, t
 
 
 ## 🔗 Links
-[!CSS Project](https://lukemersh.github.io/CSS-Project/)<br/>
+[<b>CSS Project</b>](https://lukemersh.github.io/CSS-Project/)<br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-mersh-88b11254/)
 
 
